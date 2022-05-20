@@ -1,4 +1,4 @@
-![community-samedis](https://user-images.githubusercontent.com/4928882/169477164-ce72894c-5ecd-48fc-a50b-28a0113fd50b.png)
+![community-samedis small](https://user-images.githubusercontent.com/4928882/169480058-6286b81c-87bb-480c-b8ed-d6d1d5e14a9e.png)
 
 # Samedis.care GmbH Community
 
