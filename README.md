@@ -1,3 +1,5 @@
+![community-samedis](https://user-images.githubusercontent.com/4928882/169477164-ce72894c-5ecd-48fc-a50b-28a0113fd50b.png)
+
 # Samedis.care GmbH Community
 
 Hier können alle Nutzer von https://app.samedis.care [Issues](https://github.com/Samedis-care/samedis-care-community/issues) (Fehler) melden oder sich in den [Discussions](https://github.com/Samedis-care/samedis-care-community/discussions) Ideen und Fragen mit uns und der Community teilen.
