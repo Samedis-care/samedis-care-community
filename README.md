@@ -29,5 +29,9 @@ If you want to report bugs, please do so with as many details as possible (brows
 In the Discussions you can browse requests and vote (upvote), which helps us to rank the relevance.
 If you don't find your questions, ideas or other topics you can open a new discussion. 
 
+---
+
+Application service status can be found here: https://status.samedis.care
+
 
 
